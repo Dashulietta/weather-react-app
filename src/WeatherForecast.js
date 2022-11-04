@@ -13,14 +13,14 @@ export default function WeatherForecast(props) {
 
 
     function showForecast(response) {
-        console.log(response.data);
+       
         setForecastData(response.data.daily)
         setLoadedForecast(true);
     }
-    console.log(props);
+   
   
    if (forecastLoaded) {
-console.log(forecastData);
+
 return (
     <div className="WeatherForecast">
     <div className="row">
