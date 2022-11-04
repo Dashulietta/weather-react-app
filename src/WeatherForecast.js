@@ -21,6 +21,18 @@ return (
         <div className="col">
         <WeatherForecastDay data ={forecastData[0]}/>
         </div>
+        <div className="col">
+        <WeatherForecastDay data ={forecastData[1]}/>
+        </div>
+        <div className="col">
+        <WeatherForecastDay data ={forecastData[2]}/>
+        </div>
+        <div className="col">
+        <WeatherForecastDay data ={forecastData[3]}/>
+        </div>
+        <div className="col">
+        <WeatherForecastDay data ={forecastData[4]}/>
+        </div>
     </div>
 </div> );      
 
