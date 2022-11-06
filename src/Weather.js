@@ -56,7 +56,7 @@ function handleCityChange(event) {
                     onChange ={handleCityChange}/>
                     </div>
                     <div className="col-3"> 
-                    <input type="submit" value="Search" className="btn btn-primary w-100" />
+                    <input type="submit" value="Search" className="btn btn-primary w-80" />
                     </div>
                     </div>
                 </form>
