@@ -10,7 +10,7 @@ export default function App() {
      <Weather defaultCity="Kyiv" />
       <footer>
       This project is created by <a href ="https://brilliant-kelpie-907866.netlify.app" target="_blank"  rel="noreferrer"> Petrova Dariia </a> and it is 
-      <a href="https://github.com/Dashulietta/weather-react-app" target="_blank"  rel="noreferrer" > open-sorced on GitHub</a>
+      <a href="https://github.com/Dashulietta/weather-react-app" target="_blank"  rel="noreferrer" > open-sourced on GitHub</a>
       </footer>
       </div>
     </div>
