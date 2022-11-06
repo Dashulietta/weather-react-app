@@ -36,7 +36,7 @@ return (
         <div className="col">
         <WeatherForecastDay data ={forecastData[3]}/>
         </div>
-        <div className="col d-sm-none">
+        <div className="col">
         <WeatherForecastDay data ={forecastData[4]}/>
         </div>
     </div>
